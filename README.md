@@ -4,7 +4,7 @@ This project is based on Luxury Housing Sales Analysis – Bengaluru, aiming to 
 # Project Summary
 The raw dataset was cleaned using Python by handling missing values, standardizing formats, and creating new features like Price per Sqft and Booking Flag. The cleaned dataset was then used in Power BI to build an interactive dashboard. The dashboard highlights market intelligence, configuration demand, sales channel efficiency, and the role of amenities in booking success, helping builders, investors, and buyers make data-driven decisions.
 
-#Steps
+Steps
 
 -> Cleaned and preprocessed raw housing data using Python.Modeled the dataset with derived columns for better analysis.
 
